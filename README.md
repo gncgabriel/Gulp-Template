@@ -18,14 +18,13 @@ gulp build
 ```
 ## Tree Structure
 ```
-.
-+-- _src
-|   +-- _assets
-|   |   +-- _css
-|   |   +-- _js
-|   |   +-- _scss
-|   +-- _pages
-|   +-- _templates
-|   |   +-- _partials
-| 
-```
+📦src
+ ┣ 📂assets
+ ┃ ┣ 📂css
+ ┃ ┣ 📂js
+ ┃ ┗ 📂scss
+ ┣ 📂pages
+ ┣ 📂templates
+ ┃ ┣ 📂partials
+ ┃ 
+ ```
