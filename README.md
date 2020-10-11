@@ -17,6 +17,7 @@ gulp
 gulp build
 ```
 ## Tree Structure
+```
 .
 +-- _src
 |   +-- _assets
@@ -27,3 +28,4 @@ gulp build
 |   +-- _templates
 |   |   +-- _partials
 | 
+```
