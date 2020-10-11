@@ -17,12 +17,13 @@ gulp
 gulp build
 ```
 ## Tree Structure
-📦src
- ┣ 📂assets
- ┃ ┣ 📂css
- ┃ ┣ 📂js
- ┃ ┗ 📂scss
- ┣ 📂pages
- ┣ 📂templates
- ┃ ┣ 📂partials
- ┃ 
+.
++-- _src
+|   +-- _assets
+|   |   +-- _css
+|   |   +-- _js
+|   |   +-- _scss
+|   +-- _pages
+|   +-- _templates
+|   |   +-- _partials
+| 
